@@ -24,8 +24,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "JER-BOTZ" //namabot kalian
-global.ownername= "JER OFFICIAL" //nama kalian
+global.botname = "KYY-BOTZ" //namabot kalian
+global.ownername= "JustKyy" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
@@ -39,8 +39,8 @@ global.ownernomerr = "+6285811395565" //nmr wa kalian
 global.thumbnail = "./image/Screenshot_2022-08-12-20-36-45-38.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/qris_dinamis_1660482262520.png" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© JERBOTZ-MD' //sticker wm ubah
-global.author = 'Di Buat Oleh JEREMIOFFICIAL' //sticker wm ganti nama kalian
+global.packname = '© KyyyBotz' //sticker wm ubah
+global.author = 'Di Buat Oleh KYYYGANTENG' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
